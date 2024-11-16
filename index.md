@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-this is all about me
+title: Welcome to my blog, this is all about me
 ---
 
